@@ -3,9 +3,8 @@
 - 🌱 Atualmente aperfeiçoando meus conhecimentos Em lógica de programação, Python JavaScript, C e
  Wordpress.
 - 👯 Como sei o que é precisar de ajuda estou aqui para ajudar no que for possível.
-- 🤔 Estou desenvolvendo Meus Primeiros projetos dá uma força aí pessoal.
+- 🤔 Estou desenvolvendo Meus Primeiros.
 - 📫 juancarlo.bigois@gmail.com
-- 😄 Pode me chamar de Bigas
 - ⚡  Estou aqui para dar 110% de mim e mostrar que o esforço e trabalho duro vence o talento natural,
       Para um dia me tornar o maior DEV dessa Vila tô certo👍
       
