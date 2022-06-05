@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente aperfeiçoando meus conhecimentos Em lógica de programação, Python JavaScript, C e
  Wordpress.
-- 👯 Como sei o que é precisar de ajuda estou aqui para ajudar no que for possível.
+- ✔ Como sei o que é precisar de ajuda estou aqui para ajudar no que for possível.
 - 🤔 Estou desenvolvendo Meus Primeiros.
 - 📫 juancarlo.bigois@gmail.com
 - ⚡  Estou aqui para dar 110% de mim e mostrar que o esforço e trabalho duro vence o talento natural,
