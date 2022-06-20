@@ -8,7 +8,7 @@
 - 🤔 Estou desenvolvendo Meus primeiros projetos.
 - ⚡  Estou aqui para dar 110% de mim e mostrar que o esforço e trabalho duro vence o talento natural,
       Para um dia me tornar o maior DEV dessa Vila tô certo👍      
--👨‍💻❤ "A tecnologia move o mundo." (Steve Jobs)
+-👨‍💻❤ “Se tornou aparentemente óbvio que nossa tecnologia excedeu nossa humanidade”. Albert Einstein 
       
 
 ![Gmail-D14836](https://user-images.githubusercontent.com/106891118/174686097-1c9cf0c3-cd53-4ce1-8fca-7d10798de76d.svg)
