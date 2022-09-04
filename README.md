@@ -30,5 +30,5 @@
 ![Bigois GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigoisjr&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigoisjr&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/bigoisjr/bigoisjr/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bigoisjjr/Bigois/blob/output/github-contribution-grid-snake.gif)
 
