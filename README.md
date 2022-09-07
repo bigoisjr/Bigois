@@ -1,6 +1,6 @@
 ### Olá mundo, Eu sou o Juan Bigois ✌
 
-![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.svg)
+![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 - 🌱 Atualmente aperfeiçoando meus conhecimentos em lógica de programação, Python JavaScript, C e
  Wordpress.
