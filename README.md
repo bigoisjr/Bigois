@@ -1,6 +1,6 @@
 ### Olá mundo, Eu sou o Juan Bigois ✌
 
-![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.svg)
 
 - 🌱 Atualmente aperfeiçoando meus conhecimentos em lógica de programação, Python JavaScript, C e
  Wordpress.
@@ -31,5 +31,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigoisjr&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![snake gif](https://github.com/bigoisjr/Bigois/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/bigoisjr/Bigois/blob/output/github-contribution-grid-snake.svg)
 
